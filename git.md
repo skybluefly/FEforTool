@@ -16,7 +16,7 @@ $ ssh-keygen -t rsa -C “xxx@xx.com”
 在github上添加ssh密钥，这要添加的是“id_rsa.pub”里面的公钥。
 
 ### TortoiseGit 
-- 第一次提交记住账户和密码
+- 第一次提交记住账户和密码   
 在C:\Documents and Settings\Administrator\ 目录下有一个  .gitconfig 的文件，里面会有你先前配好的name 和email，只需在下面加一行
 ```
 [credential] 
