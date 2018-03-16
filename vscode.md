@@ -9,8 +9,11 @@ http://www.cnblogs.com/answercard/p/6125473.html
 
 # vscode 不同两台电脑，插件保存（setting sync）
 
-需要拿到两个参数：token和gist id
-详细获取步骤可参考这个：[Atom 备份神器 —— Sync Settings](http://www.cnblogs.com/hooray/p/5885211.html "Atom 备份神器 —— Sync Settings")
+需要拿到两个参数：
+token和gist id
+
+详细获取步骤可参考这个：
+[Atom 备份神器 —— Sync Settings](http://www.cnblogs.com/hooray/p/5885211.html "Atom 备份神器 —— Sync Settings")
 
 遇到的问题：
 - https://gist.github.com 无法打开
