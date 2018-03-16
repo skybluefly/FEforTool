@@ -13,13 +13,13 @@ http://www.cnblogs.com/answercard/p/6125473.html
 token和gist id
 
 详细获取步骤可参考这个：
-[Atom 备份神器 —— Sync Settings](http://www.cnblogs.com/hooray/p/5885211.html "Atom 备份神器 —— Sync Settings")
+[Atom 备份神器 —— Sync Settings](http://www.cnblogs.com/hooray/p/5885211.html "Atom 备份神器 —— Sync Settings")  
 
-遇到的问题：
+遇到的问题：  
 - https://gist.github.com 无法打开
 修改host：204.232.175.94 http://gist.github.com
-- 插件报错
-https://segmentfault.com/q/1010000008183902
-https://segmentfault.com/a/1190000011206401
+- 插件报错:  
+https://segmentfault.com/q/1010000008183902  
+https://segmentfault.com/a/1190000011206401  
 
 一般报错先重置插件的配置，或者跟新token即可
