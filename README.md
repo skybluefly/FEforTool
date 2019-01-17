@@ -8,4 +8,4 @@
 
 
 <h2 id="1">webstorm篇</h2>
-- [webstorm debug setting for vue](https://github.com/skybluefly/FEforTool/issues/1)
+[webstorm debug setting for vue](https://github.com/skybluefly/FEforTool/issues/1)
