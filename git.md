@@ -10,7 +10,7 @@ $ git config --global user.email "xxx@xx.com"
 ```
 
 - 生成SSH密钥过程：
-$ ssh-keygen -t rsa -C “xxx@xx.com”   
+ssh-keygen -t rsa -C “xxx@xx.com”   
 按3个回车，密码为空。   
 最后得到了两个文件：id_rsa和id_rsa.pub   
 在github上添加ssh密钥，这要添加的是“id_rsa.pub”里面的公钥。
