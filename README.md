@@ -10,3 +10,4 @@
 
 # webstorm篇
 - [webstorm debug setting for vue](https://github.com/skybluefly/FEforTool/issues/1)
+- [webstorm debug setting for nodejs]
