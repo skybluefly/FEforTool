@@ -5,9 +5,12 @@
 
 
 * [webstorm篇](#webstorm篇)
+* [font-spider](#font-spider 字体压缩)
 
 
 
 # webstorm篇
 - [webstorm debug setting for vue](https://github.com/skybluefly/FEforTool/issues/1)
-- [webstorm debug setting for nodejs]
+
+# font-spider 字体压缩
+- [font-spider-demo](https://github.com/skybluefly/FEforTool/issues/2)
