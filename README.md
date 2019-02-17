@@ -5,7 +5,7 @@
 
 
 * [webstorm篇](#webstorm篇)
-* [font-spider](#font-spider)
+* [font-spider](#font-spider字体压缩)
 
 
 
